@@ -1,0 +1,11 @@
+Andi,80
+Budi,65
+Citra,90
+Dewi,55
+Nisa,99
+Suni,100
+Adi,10
+Anto,20
+Yasin,30
+Sulaso,45
+Kanto,85
